@@ -31,6 +31,11 @@ public class TPC05 {
         	System.out.println();
         }
         //가변길이 배열-> 별찍기
+	// *
+	// **
+	// ***
+	// ****
+	// *****	
         int[][] star = new int[5][];
         star[0] = new int[1];
         star[1] = new int[2];
